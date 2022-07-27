@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+E:\Workspace\Java\algebra\.metadata\.plugins\org.eclipse.jdt.core
+1724393746.index
+2196199803.index

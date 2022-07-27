@@ -1,0 +1,17 @@
+package algebraLinear;
+
+public class Main {
+	public static void main (String [] args) {
+		
+		//Criando uma matriz
+		
+		Matriz matrizQuadrada = new Matriz (2,2);
+		double [][] auxiliar = {
+				{1,2},
+				{3,4}
+		};
+		matrizQuadrada.setMatriz(auxiliar);
+		
+	}
+
+}
